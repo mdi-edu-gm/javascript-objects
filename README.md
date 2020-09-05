@@ -83,3 +83,10 @@ Try to do the following operations on the student array of objects
 4. Write a program that will count how many students have a skill level greater than 5. This will be our top skilled students 
 
 5. Write a program that will compute the average of the top skilled students
+
+6. Write a program that will get all the names of the students that are born after 1990
+
+7. Write a program that will get all the students that names start with "E"
+
+8. Write a program that will get the name and address of students whose interest is "Reading"
+
