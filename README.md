@@ -94,4 +94,4 @@ Try to do the following operations on the student array of objects
 
 Solve all the above questions in the main.js file. For now you can use console.log to out the results. Later we will use template strings to output it in the browser.
 
-**Hint**: You might want to solve each question as its own function, if Functional Programming is your style otherwise via OOP. JavaScript is a multi a multi-paradigm lanuage, you can write imperative, object-oriented or functional code, choosing the right tool for the job.
+**Hint**: You might want to solve each question as its own function, if Functional Programming is your style otherwise via OOP. JavaScript is a multi a multi-paradigm language, you can write imperative, object-oriented or functional code, choosing the right tool for the job.
